@@ -1,0 +1,4 @@
+LaravelStaticSite
+=================
+
+Laravel PHP Framework.
