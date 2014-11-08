@@ -1,4 +1,4 @@
 LaravelStaticSite
 =================
 
-Laravel PHP Framework.
+Laravel PHP Framework. Realizarea unui site static.

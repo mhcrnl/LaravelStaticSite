@@ -13,5 +13,14 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('pages.acasa');
+});
+Route::get('despre', function(){
+	return View::make('pages.despre');
+});
+Route::get('proiecte', function(){
+	return View::make('pages.proiecte');
+});
+Route::get('contact', function(){
+	return View::make('pages.contact');
 });
